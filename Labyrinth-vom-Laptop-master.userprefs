@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{1A98C7C7-4242-32F3-04BB-8F6F0726DCEB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/WinDeath/DeathScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ButtonBehaviour.cs" Line="14" Column="1" />
+      <File FileName="Assets/Scripts/MoveBlueWalls.cs" Line="7" Column="30" />
+      <File FileName="Assets/Scripts/WinDeath/DeathScript.cs" Line="11" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Labyrinth-vom-Laptop-master PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
