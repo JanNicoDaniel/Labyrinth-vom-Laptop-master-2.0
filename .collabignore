@@ -17,7 +17,7 @@ ehthumbs.db
 # =====================================
 [Ee]xported[Oo]bj/
 *.userprefs
-*.csproj
+
 *.pidb
 *.suo
 *.sln
